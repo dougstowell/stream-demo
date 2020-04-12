@@ -351,3 +351,4 @@ MigrationBackup/
 
 # Environment file
 .env
+stream-demo.console/json1.json
